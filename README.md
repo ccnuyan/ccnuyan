@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ccnuyan
-- 👀 I’m interested in react redux mobx saga nexus prisma react-native typescript
+- 👀 I’m interested in react redux mobx saga react-native typescript, node.js next.js koa express pg nexus prisma
 - 🌱 I’m currently learning nexus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
