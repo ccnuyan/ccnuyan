@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ccnuyan, Yan from CCNU
+- 👋 Hi, I’m @ccnuyan, Zhonghua.Yan from CCNU
 - 👀 I’m interested in typescript
 
 <!---
