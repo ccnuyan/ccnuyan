@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ccnuyan, Zhonghua.Yan from CCNU
-- 👀 I’m interested in typescript
+- 👀 I’m interested in Typescript
 
 <!---
 ccnuyan/ccnuyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
